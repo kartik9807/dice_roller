@@ -30,4 +30,4 @@ def dice():# making a function for dice rolling
             print("[0   0]")
             print("[0   0]\n")
             
-dice()
+dice() # calling function
